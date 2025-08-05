@@ -4,7 +4,7 @@ This repository provides Python scripts for solving the Electric Vehicle(EV) Rou
 
 # Project Structure
 
-|- '1_Single_ev.py'       # Simulates EV routing for a single EV with user-defined customer and grid locations.
+|- '1_Single_ev.py'       # Simulates EV routing for a single EV with user-defined number of customers and grids.
 |- '2_Multiple_ev.py'     # Simulates EV routing for multiple EVs using Solomon VPR Dataset.
 |- '3_Multi_ev_voice_assisted.py'      # Simulates multi-EV routing using Solomon VRP dataset, supports voice feedback, and visualizes energy usage and grid interactions.
 
